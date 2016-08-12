@@ -1,0 +1,11 @@
+{
+    "name": "typo3-ter/dummy",
+    "description": "Package to claim typo3-ter namespace on Packagist",
+    "authors": [
+        {
+            "name": "Helmut Hummel",
+            "email": "info@helhum.io"
+        }
+    ],
+    "require": {}
+}
