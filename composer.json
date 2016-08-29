@@ -1,6 +1,6 @@
 {
     "name": "typo3-ter/dummy",
-    "description": "Package to claim typo3-ter namespace on Packagist",
+    "description": "Package to claim typo3-ter vendor on Packagist",
     "authors": [
         {
             "name": "Helmut Hummel",
